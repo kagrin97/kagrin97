@@ -1,4 +1,4 @@
-<h1 align=center>😎안녕하세요 프론트엔드 강민규입니다👍</h1>
+<h1 align=center margin-bottom=100px>😎안녕하세요 프론트엔드 강민규입니다👍</h1>
 
 
 <div align=center><h1>📚 MY STACKS</h1></div>
@@ -26,6 +26,6 @@
 <div align=center><h1>👀 About me</h1></div>
 <div align=center> 
   <span>1년전 컴공을 졸업했다고 막연하게 클론코딩과 알고리즘 반복하다. 현타후 1년을 쉬었습니다 하지만 1년만에 필사즉생의 마음
-  으로 프론트엔드 개발자가 뒤기위해 공부중입니다🎈</span>
+  으로 프론트엔드 개발자가 되기위해 공부중입니다🎈</span>
 </div>
 

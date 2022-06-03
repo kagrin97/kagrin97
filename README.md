@@ -1,4 +1,4 @@
-<h1>안녕하세요 강민규입니다</h1>
+<h1 align=center>😎안녕하세요 강민규입니다👍</h1>
 
 
 <div align=center><h1>📚 STACKS</h1></div>

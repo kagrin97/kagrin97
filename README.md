@@ -1,5 +1,5 @@
 <h1 align=center margin-bottom=100px>😎안녕하세요 프론트엔드 강민규입니다👍</h1>
-<a href="https://kagrin97-blog.vercel.app/">nextJS로 만든 제 블로그 입니다!</a>
+<a href="https://kagrin97-blog.vercel.app/" align=center>nextJS로 만든 제 블로그 입니다!</a>
 
 <div align=center><h1>📚 MY STACKS</h1></div>
 <div align=center> 

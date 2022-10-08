@@ -1,9 +1,7 @@
 <h1 align=center margin-bottom=100px><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=726EF7&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&width=497&lines=%EC%A0%9C+Github+repo%EC%97%90+%EC%98%A4%EC%8B%A0%EA%B2%83%EC%9D%84+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a></h1>
 
 </br>
-</br>
 
-  
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-FBCA04?style=for-the-badge&logo=css3&logoColor=black"> 
@@ -21,15 +19,13 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
 </br>
-</br>
 
 <div align="center">
-  <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=kagrin97&hide=stars&theme=radical" />
+  </br>
+  </br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kagrin97" />
-  </div>
 </div>
-</br>
 </br>
 <div align=center><h2>👀 About me</h2></div>
 <div align=center> 

@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   
   
-  <br>
+  </br>
 </div>
 
 <div align=center><h2>👀 About me</h2></div>
@@ -28,8 +28,11 @@
     다시 도전하기위해 1년만에 필사즉생의 마음으로 학습중입니다🎈</span>
 </div>
 
-<br>
- ![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagrin97&show_icons=true&theme=ocean_dark)
- 
- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kagrin97)](https://solved.ac/kagrin97)
+</br>
 
+<div align="center">
+  <div style="display: flex;">
+  ![kagrin97 GitHub stats](https://github-readme-stats.vercel.app/api?username=kagrin97&hide=stars&theme=radical)
+  ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kagrin97)
+  </div>
+</div>

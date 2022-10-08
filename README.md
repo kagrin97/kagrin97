@@ -28,11 +28,8 @@
     다시 도전하기위해 1년만에 필사즉생의 마음으로 학습중입니다🎈</span>
 </div>
 
-<div align=center><h2>🖌 MOTTO</h2></div>
-<div> 
-  <span>공자께서 말씀하셨다.
-          세 사람이 함께 길을 가면 거기에는 반드시 나의 스승이 있다.
-          그 가운데 나보다 나은 사람의 좋은 점을 골라 그것을 따르고,
-          나보다 못한 사람의 좋지 않은 점을 골라 그것을 바로 잡아라.</span>
-</div>
+<br>
+ ![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagrin97&show_icons=true&theme=ocean_dark)
+ 
+ [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kagrin97)](https://solved.ac/kagrin97)
 
